@@ -1,6 +1,6 @@
 ## Hi there, I'm Rado
 
-I'm a **Computer Science** student in Germany and living in Vienna, who specializes in **Web Development** and **Cybersecurity**.
+I'm a **Computer Science** student in Germany, living in Vienna, who specializes in **Web Development** and **Cybersecurity**.
 I like to solve problems and code is a big part of my life. You can read more on **[my website](http://mandev.net)**.
 
 ## Get in touch
