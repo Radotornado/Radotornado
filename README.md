@@ -1,6 +1,6 @@
 ## Hi there, I'm Rado
 
-I'm a **Computer Science** student in Germany, who specializes in **Web Development** and **Cybersecurity**. 
+I'm a **Computer Science** student in Germany and living in Vienna, who specializes in **Web Development** and **Cybersecurity**.
 I like to solve problems and code is a big part of my life. You can read more on **[my website](http://mandev.net)**.
 
 ## Get in touch
@@ -12,7 +12,7 @@ I like to solve problems and code is a big part of my life. You can read more on
     <a href="https://www.instagram.com/radoslav.mandev/">
         <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="30" height="30" style="padding-right:5px"> 
     </a>
-    <a href="https://wa.me/359882027807">
+    <a href="https://wa.me/4367764895930">
         <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30" style="padding-right:5px"> 
     </a>
     <a href="https://www.goodreads.com/user/show/132864977-radoslav-mandev">
