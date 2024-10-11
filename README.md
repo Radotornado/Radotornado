@@ -1,7 +1,7 @@
 ## Hi there, I'm Rado
 
 I'm a java **Back-End Developer** living in Vienna, who specializes in **Web Development** and **Cybersecurity**.
-I like to solve problems and code is a big part of my life. You can read more on **[my website](http://mandev.net)**.
+I like to solve problems and code is a big part of my life. You can read more on **[my website](https://personal-website-radotornado.vercel.app/)**.
 
 ## Get in touch
 
