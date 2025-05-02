@@ -20,10 +20,10 @@ I like to solve problems and code is a big part of my life. You can read more on
 ## About GitHub
 
 <p>
-    <a href="http://mandev.net">
+    <a href="https://mandev.info">
         <img src="https://github-readme-stats-sigma-blue.vercel.app/api?username=Radotornado&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&custom_title=My%20GitHub%20stats" height="150">
     </a>
-    <a href="http://mandev.net">
+    <a href="https://mandev.info">
         <img src="https://github-readme-stats-sigma-blue.vercel.app/api/top-langs/?username=Radotornado&theme=cobalt&layout=compact&hide=html,roff&custom_title=Languages%20I%20use" height="150">
     </a>
 </p>
